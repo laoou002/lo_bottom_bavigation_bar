@@ -5,8 +5,6 @@
 > 本文主要给BottomNavigationBarItem的点击添加了**弹簧缩放动画**，并调整了BottomNavigationBarItem的主要**widget**。
 > 各位同学可以参考，添加自己的专属动画，或者将BottomNavigationBarItem的**child**修改为自己的**自定义widget**。
 
----
-
 # 效果图：
 <center>
 <img src="https://github.com/laoou002/LOResoures/blob/main/IMG_2371.GIF" width="200" height="433">	
@@ -18,7 +16,6 @@
 > lo_bottom_navigation_bar_item.dart, 此处新增了两个属性`animation`和`index`；
 
 
----
 ### 2、重写系统的BottomNavigationBar
 > lo_bottom_navigation_bar.dart, 主要改动了`InkResponse`中的`child`，改变结构，并添加动画；
 
@@ -44,7 +41,6 @@
   }
 ```
 
----
 
 > 希望能帮到各位，并给各位提供各种修改flutter原生组件的灵感。
 
