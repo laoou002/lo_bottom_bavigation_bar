@@ -9,6 +9,9 @@
 
 # 先贴效果图：
 ![在这里插入图片描述](https://github.com/laoou002/LOResoures/blob/main/IMG_2371.GIF)
+<center>
+<img src="https://github.com/laoou002/LOResoures/blob/main/IMG_2371.GIF" width="200" height="433">	
+</center>
 
 
 # 正文
