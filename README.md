@@ -8,7 +8,7 @@
 ---
 
 # 先贴效果图：
-![在这里插入图片描述]([https://img-blog.csdnimg.cn/219d500c8483460caee4b2a02dd5777f.gif#pic_center](https://github.com/laoou002/LOResoures/blob/main/IMG_2371.GIF))
+![在这里插入图片描述](https://github.com/laoou002/LOResoures/blob/main/IMG_2371.GIF)
 
 
 # 正文
